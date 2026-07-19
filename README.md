@@ -117,17 +117,6 @@ This dashboard helps stakeholders to:
 
 ---
 
-## Repository Structure
-
-```
-Dashboard/
-Dataset/
-Images/
-README.md
-LICENSE
-```
-
----
 
 ## Future Improvements
 
