@@ -144,8 +144,4 @@ LICENSE
 
 ## Author
 
-Ayush Vatsh
-
-LinkedIn: (Add your LinkedIn)
-
-GitHub: (Add your GitHub)
+Ayush Kumar
