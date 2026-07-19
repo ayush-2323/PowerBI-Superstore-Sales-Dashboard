@@ -8,8 +8,9 @@ This project showcases an end-to-end Business Intelligence solution built using 
 
 ## Dashboard Preview
 
-> Screenshot 2026-07-11 123619.png
+>Add your dashboard screenshot here.
 
+![Dashboard](Screenshot 2026-07-11 123619.png)
 ---
 
 ## Objectives
